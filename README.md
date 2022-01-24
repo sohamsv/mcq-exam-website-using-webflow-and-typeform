@@ -3,4 +3,3 @@ This website is made using No-code technology called as Webflow and Typeform. Th
 
 The Web development mcq exam website using webflow and typeform can be found at the link below:-
 https://mock-exam-site.webflow.io/
-This website is made using No-code technology called as Webflow and Typeform.
